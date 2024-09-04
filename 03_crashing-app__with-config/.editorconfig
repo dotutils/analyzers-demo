@@ -272,5 +272,5 @@ dotnet_style_allow_multiple_blank_lines_experimental = true:silent
 dotnet_style_allow_statement_immediately_after_block_experimental = true:silent
 dotnet_code_quality_unused_parameters = all:suggestion
 
-[Calculator.cs]
-dotnet_diagnostic.CA2021.severity = warning
+// [Calculator.cs]
+// dotnet_diagnostic.CA2021.severity = warning

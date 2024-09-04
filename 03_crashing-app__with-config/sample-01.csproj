@@ -16,6 +16,11 @@
 	  <WarningsNotAsErrors>CA2021</WarningsNotAsErrors>
 	  4: Proper chaining of MSBuild props
 	  <WarningsNotAsErrors>$(WarningsNotAsErrors),CA2021</WarningsNotAsErrors>
+	  5: Change TFM to net8.0
+	  6: analysis level of particular TFM 
+	  <AnalysisLevel>8.0</AnalysisLevel>
+	  7: analysis level to newest of the current SDK
+	  <AnalysisLevel>latest</AnalysisLevel>
 	  -->
   </PropertyGroup>
 
