@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+	<SomeProperty>xyz</SomeProperty>
+	<Owners>Contoso</Owners>
+	<Authors>John Doe</Authors>
+  </PropertyGroup>
+</Project>

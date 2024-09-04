@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+	<SomeProperty>xyz</SomeProperty>
+	<!-- https://learn.microsoft.com/en-us/nuget/reference/msbuild-targets#pack-target -->
+	<Owners>Contoso</Owners>
+	<Authors>John Doe</Authors>
+  </PropertyGroup>
+</Project>

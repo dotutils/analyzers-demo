@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+	  <OutputType>Library</OutputType>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <IsPackable>true</IsPackable>
+	  <NoWarn>NU1701</NoWarn>
+
+	  <PackageVersion>$(CalculatorVersion)</PackageVersion>
+	  <PackageId>DotUtils.Calculator</PackageId>
+	  
+	  <!-- Moved to Directory.Build.props
+	  <SomeProperty>xyz</SomeProperty>
+	  <Owners>Contoso</Owners>
+	  <Authors>John Doe</Authors>
+	   -->
+	  
+	  
+	  <MSBuildWarningsAsErrors>BC0201</MSBuildWarningsAsErrors>
+      <!-- <MSBuildTreatWarningsAsErrors>true</MSBuildTreatWarningsAsErrors> -->
+	  
+  </PropertyGroup>
+</Project>

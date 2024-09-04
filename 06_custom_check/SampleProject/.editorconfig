@@ -1,0 +1,13 @@
+root = true
+
+# Buildcheck rules
+[*.csproj]
+build_check.BC0103.severity=warning
+build_check.BC0203.severity=warning
+// build_check.BC0203.scope=work_tree_imports
+
+[*.csproj]
+build_check.X01234.Severity=warning
+build_check.X01234.authors_name=Microsoft
+
+
