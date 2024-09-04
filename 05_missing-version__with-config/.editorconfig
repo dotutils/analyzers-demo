@@ -4,6 +4,6 @@ root = true
 [*.csproj]
 build_check.BC0103.severity=warning
 build_check.BC0203.severity=warning
-build_check.BC0203.scope=work_tree_imports
+// build_check.BC0203.scope=work_tree_imports
 
 
