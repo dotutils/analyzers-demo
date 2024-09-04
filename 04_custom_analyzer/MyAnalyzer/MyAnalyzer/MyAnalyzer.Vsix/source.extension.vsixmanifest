@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MyAnalyzer.fd328ebf-60dc-4d50-bb93-eed2fcd405a0" Version="1.0" Language="en-US" Publisher="jankrivanek"/>
+    <Identity Id="MyAnalyzer.1cf10e15-9394-4569-a1be-e904d0ae6f00" Version="1.0" Language="en-US" Publisher="jankrivanek"/>
     <DisplayName>MyAnalyzer</DisplayName>
     <Description xml:space="preserve">This is a sample diagnostic extension for the .NET Compiler Platform ("Roslyn").</Description>
   </Metadata>
