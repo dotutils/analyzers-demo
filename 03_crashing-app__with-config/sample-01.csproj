@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+	<!-- Flip to net8.0 for added implicit analyzers -->
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	  <!--
+	  1: Disable specific by NoWarn
+	  <NoWarn>CA2021</NoWarn>
+	  2: Disable specific by NoWarn - just by suffix
+	  <NoWarn>21</NoWarn>
+	  3: WarningsNotAsErrors as an opposite to WarningsAsErrors 
+	  <WarningsNotAsErrors>CA2021</WarningsNotAsErrors>
+	  4: Proper chaining of MSBuild props
+	  <WarningsNotAsErrors>$(WarningsNotAsErrors),CA2021</WarningsNotAsErrors>
+	  -->
+  </PropertyGroup>
+
+</Project>
