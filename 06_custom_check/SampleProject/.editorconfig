@@ -8,6 +8,6 @@ build_check.BC0203.severity=warning
 
 [*.csproj]
 build_check.X01234.Severity=warning
-build_check.X01234.authors_name=Microsoft
+// build_check.X01234.authors_name=Microsoft
 
 

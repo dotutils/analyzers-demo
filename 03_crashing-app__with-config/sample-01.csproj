@@ -11,7 +11,7 @@
 	  1: Disable specific by NoWarn
 	  <NoWarn>CA2021</NoWarn>
 	  2: Disable specific by NoWarn - just by suffix
-	  <NoWarn>21</NoWarn>
+	  <NoWarn>2021</NoWarn>
 	  3: WarningsNotAsErrors as an opposite to WarningsAsErrors 
 	  <WarningsNotAsErrors>CA2021</WarningsNotAsErrors>
 	  4: Proper chaining of MSBuild props
